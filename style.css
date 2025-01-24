@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 /* Styling the body */
 body {
     font-family: 'Arial', sans-serif;
@@ -12,7 +11,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 /* Container for overall layout */
 .my-container {
     text-align: center;
@@ -22,13 +20,11 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 h1 {
     font-size: 2.5em;
     color: #333;
     margin-bottom: 20px;
 }
-
 h2 {
     font-size: 2em;
     color: #555;
@@ -41,12 +37,10 @@ p {
     line-height: 1.5;
     margin-bottom: 30px;
 }
-
 img {
     border-radius: 50%;
     margin-top: 20px;
 }
-
 /* Section Styles */
 section {
     margin: 20px auto;
@@ -57,14 +51,12 @@ section {
     border-radius: 10px;
     margin-bottom: 30px;
 }
-
 /* Skills Section */
 .skills ul {
     list-style-type: none;
     padding: 0;
     text-align: center;
 }
-
 .skills li {
     font-size: 1.1em;
     color: #333;
@@ -72,12 +64,10 @@ section {
     cursor: pointer;
     padding: 5px;
 }
-
 .skills li:hover {
     background-color: #e9ecef;
     border-radius: 5px;
 }
-
 .skills strong {
     color: #0056b3;
 }
@@ -231,14 +221,11 @@ ul li:hover {
         font-size: 1.6em;
     }
 }
-
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
 }
-
-
 body {
     font-family: 'Arial', sans-serif;
     background-color: #e0f7fa; /* Light cyan background */
