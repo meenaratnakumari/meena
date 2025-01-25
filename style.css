@@ -223,6 +223,9 @@ ul li:hover {
 }
 
 
+body {
+    background-color: rgba(15, 221, 228, 0.5); /* Black overlay with transparency */
 
+}
 
 
