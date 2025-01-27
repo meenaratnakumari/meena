@@ -27,7 +27,7 @@ h2 {
     margin-top: 30px;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1em;
     color:  #201e1e;
     line-height: 1.5;
     margin-bottom: 30px;
@@ -48,7 +48,7 @@ section {
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1em;
     color:  #201e1e;
     margin-top: 10px; 
     text-align: center;
@@ -62,7 +62,7 @@ h3 {
 }
 
 .skills li {
-    font-size: 1.1em;
+    font-size: 1em;
     color:  #201e1e;
     margin-bottom: 10px;
     cursor: pointer;
@@ -85,7 +85,7 @@ h3 {
 }
 
 .education li {
-    font-size: 1.1em;
+    font-size: 1em;
     color: #555;
     margin-bottom: 10px;
     text-align: center;
@@ -95,7 +95,7 @@ h3 {
     color: #12b4dd;
 }
 .profession p {
-    font-size: 1.2em;
+    font-size: 1em;
     color: #333;
     text-align: center;
     margin-top: 10px;
@@ -107,7 +107,7 @@ h3 {
 }
 
 .hobbies li {
-    font-size: 1.1em;
+    font-size: 1em;
     color: #201e1e;
     margin-bottom: 10px;
 }
@@ -119,7 +119,7 @@ h3 {
 }
 
 .contact li {
-    font-size: 1.1em;
+    font-size: 1em;
     color: #555;
     margin-bottom: 10px;
     text-align: center;
@@ -145,7 +145,7 @@ h3 {
 }
 
 .contact-form label {
-    font-size: 1.1em;
+    font-size: 1em;
     color: #333;
     margin-bottom: 5px;
 }
@@ -185,11 +185,11 @@ h3 {
     }
 
     h1 {
-        font-size: 2em;
+        font-size: 1em;
     }
 
     h2 {
-        font-size: 1.6em;
+        font-size: 1em;
     }
 
     .contact-form {
